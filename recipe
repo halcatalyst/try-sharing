@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipes</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+    <h1>My Favorite Recipes</h1>
+    <p>Elegant Chocolate-Dipped Treats</p>
+    <h3>List of Ingredients</h3>
+    <ul>
+        <li>24 large strawberries</li>
+        <li>1 cup semisweet chocolate pieces</li>
+        <li>1 teaspoon vegetable oil</li>
+    </ul>
+    
+    <h3>Directions</h3>
+    <ol>
+        <li>Line 2 baking sheets with waxed paper.</li>
+        <li>Rinse and dry the strawberries.</li>
+        <li>Melt chocolate in microwave or on top of double boiler over simmering water.</li>
+        <li>Stir in vegetable oil.</li>
+        <li>Dip berry to coat, then place on waxed paper; let stand to harden.</li>
+        <li>To speed firming, refrigerate 6 minutes.</li>
+    </ol>
+    
+    <p>For gourmet-shop flair, before chocolate sets, dip in shredded coconut or chopped nuts.</p>
+
+</body>
+</html>
